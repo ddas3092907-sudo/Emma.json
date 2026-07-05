@@ -1,0 +1,114 @@
+{
+  "name": "Emma Veil Gold",
+  "description": "Emma from Kotteri's Veil - Full Velvet Gold and Warm Cream Theme",
+  "authors": [
+    {
+      "name": "VeilFan",
+      "id": "123456789012345678"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": ["#D4A35925", "#D4A35925"],
+    "MENTION_BACKGROUND": ["#D4A359", "#D4A359"],
+    "TEXT_MENTION": ["#D4A359", "#D4A359"],
+    "TEXT_DEFAULT": ["#FDFBF7", "#FDFBF7"],
+
+    "INPUT_BACKGROUND": ["#1A1613", "#1A1613"],
+
+    "CHANNEL_ICON": ["#D4A359", "#D4A359"],
+
+    "INTERACTIVE_NORMAL": ["#D4A359", "#D4A359"],
+    "INTERACTIVE_HOVER": ["#E5B869", "#E5B869"],
+    "INTERACTIVE_ACTIVE": ["#D4A359", "#D4A359"],
+    "INTERACTIVE_MUTED": ["#D4A35960", "#D4A35960"],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#D4A359", "#D4A359"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#D4A359", "#D4A359"],
+    "BUTTON_OUTLINE_BRAND_BORDER": ["#E5B869", "#E5B869"],
+
+    "INPUT_BORDER": ["#D4A359", "#D4A359"],
+    "INPUT_BORDER_FOCUS": ["#E5B869", "#E5B869"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#D4A35920", "#D4A35920"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#D4A35930", "#D4A35930"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#D4A35940", "#D4A35940"],
+
+    "SCROLLBAR_THIN_THUMB": ["#D4A359", "#D4A359"],
+    "SCROLLBAR_THIN_TRACK": ["#1A161320", "#1A161320"],
+    "SCROLLBAR_AUTO_TRACK": ["#1A161320", "#1A161320"],
+
+    "FOCUS_PRIMARY": ["#D4A359", "#D4A359"],
+    "FOCUS_SECONDARY": ["#E5B869", "#E5B869"],
+
+    "BACKGROUND_FLOATING": ["#25201C", "#25201C"],
+    "BACKGROUND_NESTED_FLOATING": ["#25201C", "#25201C"]
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/ddas3092907-sudo/Emma.json/main/28f6025b-46e2-4df4-8a33-97c1dd7bcc96-Picsart-AiImageEnhancer.jpeg",
+    "alpha": 0.30,
+    "blur": 0
+  },
+
+  "rawColors": {
+    "BRAND_360": "#D4A359",
+    "BRAND_500": "#D4A359",
+
+    "PRIMARY_100": "#FDFBF7",
+    "PRIMARY_200": "#F5EAD6",
+    "PRIMARY_230": "#1A1613",
+    "PRIMARY_300": "#211C18",
+    "PRIMARY_400": "#2A241F",
+    "PRIMARY_500": "#211C18",
+    "PRIMARY_600": "#161210",
+    "PRIMARY_700": "#161210",
+    "PRIMARY_800": "#0F0C0A",
+    "PRIMARY_900": "#000000",
+
+    "GREEN_360": "#D4A359",
+    "BLUE_345": "#D4A359",
+    "YELLOW_300": "#E5B869",
+    "ORANGE_345": "#D4A359",
+    "RED_400": "#D4A359",
+
+    "PLUM_1": "#D4A359",
+    "PLUM_3": "#D4A359",
+    "PLUM_11": "#D4A359",
+    "PLUM_13": "#D4A359",
+    "PLUM_15": "#25201C",
+    "PLUM_16": "#D4A359",
+    "PLUM_17": "#1A1613",
+    "PLUM_18": "#1A1613",
+    "PLUM_19": "#25201C",
+    "PLUM_20": "#211C18",
+    "PLUM_22": "#211C18",
+    "PLUM_23": "#25201C",
+    "PLUM_24": "#25201C"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "backgroundImageUrl": "https://raw.githubusercontent.com/ddas3092907-sudo/Emma.json/main/28f6025b-46e2-4df4-8a33-97c1dd7bcc96-Picsart-AiImageEnhancer.jpeg",
+    "backgroundAlpha": 0.30,
+    "blur": 0,
+    "icons": {
+      "ic_new_pins": ["#D4A359"],
+      "StatusStreaming": ["#E5B869"],
+      "StatusMobileOnline": ["#D4A359"],
+      "StatusDND": ["#D4A359"],
+      "StatusOffline": ["#2A241F"],
+      "StatusOnline": ["#D4A359"],
+      "reply_bar": ["#D4A359"],
+      "mention_pill": ["#D4A359"],
+      "mention_line": ["#D4A359"]
+    },
+    "themes+": {
+      "customIconOverlays": true,
+      "customMessageMentionLineColor": true
+    }
+  }
+}
+
