@@ -1,0 +1,134 @@
+{
+  "name": "Emma Max Contrast Frosted",
+  "description": "Emma Gold Edition - Ultimate High-Contrast Frosted Panel Layout",
+  "authors": [
+    {
+      "name": "VeilFan",
+      "id": "123456789012345678"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": ["#D4A35935", "#D4A35935"],
+    "MENTION_BACKGROUND": ["#D4A359", "#D4A359"],
+    "TEXT_MENTION": ["#D4A359", "#D4A359"],
+    "TEXT_DEFAULT": ["#FFFFFF", "#FFFFFF"],
+
+    "INPUT_BACKGROUND": ["#000000FF", "#000000FF"],
+
+    "CHANNEL_ICON": ["#E5B869", "#E5B869"],
+
+    "INTERACTIVE_NORMAL": ["#E5B869", "#E5B869"],
+    "INTERACTIVE_HOVER": ["#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#E5B869", "#E5B869"],
+    "INTERACTIVE_MUTED": ["#D4A35970", "#D4A35970"],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#D4A359", "#D4A359"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#D4A359", "#D4A359"],
+    "BUTTON_OUTLINE_BRAND_BORDER": ["#FFFFFF", "#FFFFFF"],
+
+    "INPUT_BORDER": ["#D4A359", "#D4A359"],
+    "INPUT_BORDER_FOCUS": ["#FFFFFF", "#FFFFFF"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#D4A35920", "#D4A35920"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#D4A35930", "#D4A35930"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#D4A35940", "#D4A35940"],
+
+    "SCROLLBAR_THIN_THUMB": ["#D4A359", "#D4A359"],
+    "SCROLLBAR_THIN_TRACK": ["#00000020", "#00000020"],
+    "SCROLLBAR_AUTO_TRACK": ["#00000020", "#00000020"],
+
+    "FOCUS_PRIMARY": ["#D4A359", "#D4A359"],
+    "FOCUS_SECONDARY": ["#FFFFFF", "#FFFFFF"],
+
+    "BACKGROUND_FLOATING": ["#000000FF", "#000000FF"],
+    "BACKGROUND_NESTED_FLOATING": ["#000000FF", "#000000FF"]
+  },
+
+  "background": {
+    "url": "https://githubusercontent.com",
+    "alpha": 0.20,
+    "blur": 1
+  },
+
+  "rawColors": {
+    "BRAND_360": "#D4A359",
+    "BRAND_500": "#D4A359",
+
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FDFBF7",
+    "PRIMARY_230": "#0F0C0DDC",
+    "PRIMARY_300": "#141011DC",
+    "PRIMARY_400": "#1A1516DC",
+    "PRIMARY_500": "#141011DC",
+    "PRIMARY_600": "#000000FF",
+    "PRIMARY_700": "#000000FF",
+    "PRIMARY_800": "#000000FF",
+    "PRIMARY_900": "#000000FF",
+
+    "GREEN_360": "#D4A359",
+    "BLUE_345": "#D4A359",
+    "YELLOW_300": "#E5B869",
+    "ORANGE_345": "#D4A359",
+    "RED_400": "#D4A359",
+
+    "PLUM_1": "#D4A359",
+    "PLUM_3": "#D4A359",
+    "PLUM_11": "#D4A359",
+    "PLUM_13": "#D4A359",
+    "PLUM_15": "#000000FF",
+    "PLUM_16": "#D4A359",
+    "PLUM_17": "#0F0C0DFF",
+    "PLUM_18": "#0F0C0DFF",
+    "PLUM_19": "#000000FF",
+    "PLUM_20": "#000000FF",
+    "PLUM_22": "#000000FF",
+    "PLUM_23": "#000000FF",
+    "PLUM_24": "#000000FF"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "backgroundImageUrl": "https://githubusercontent.com",
+    "backgroundAlpha": 0.20,
+    "blur": 1,
+    "icons": {
+      "ic_new_pins": ["#D4A359"],
+      "StatusStreaming": ["#FFFFFF"],
+      "StatusMobileOnline": ["#D4A359"],
+      "StatusDND": ["#D4A359"],
+      "StatusOffline": ["#000000"],
+      "StatusOnline": ["#D4A359"],
+      "reply_bar": ["#D4A359"],
+      "mention_pill": ["#D4A359"],
+      "mention_line": ["#D4A359"]
+    },
+    "themes+": {
+      "customIconOverlays": true,
+      "customMessageMentionLineColor": true
+    }
+  },
+
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com",
+    "ggsans-Bold": "https://github.com",
+    "ggsans-BoldItalic": "https://github.com",
+    "ggsans-ExtraBold": "https://github.com",
+    "ggsans-ExtraBoldItalic": "https://github.com",
+    "ggsans-Medium": "https://github.com",
+    "ggsans-MediumItalic": "https://github.com",
+    "ggsans-Normal": "https://github.com",
+    "ggsans-NormalItalic": "https://github.com",
+    "ggsans-Semibold": "https://github.com",
+    "ggsans-SemiboldItalic": "https://github.com",
+    "NotoSans-Bold": "https://github.com",
+    "NotoSans-ExtraBold": "https://github.com",
+    "NotoSans-Medium": "https://github.com",
+    "NotoSans-Normal": "https://github.com",
+    "NotoSans-NormalItalic": "https://github.com",
+    "NotoSans-Semibold": "https://github.com",
+    "ggmono-Normal": "https://github.com"
+  }
+  }
