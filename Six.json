@@ -1,0 +1,102 @@
+{
+  "name": "Limitless Void: Six Eyes Awakening",
+  "description": "A refined Liquid Glass theme for Revenge inspired by Gojo Satoru. Uses accurate semantic mapping for pure Six Eyes electric blue pings, text links, and thread reply line connections.",
+  "authors": [
+    {
+      "name": "AI Assistant"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#02040680"],
+    "ANDROID_RIPPLE": ["#00d2ff23"],
+    "BACKGROUND_ACCENT": ["#00d2ff"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#ffffff0a"],
+    "BACKGROUND_PRIMARY": ["#04070d85"],
+    "BACKGROUND_SECONDARY": ["#080c1490"],
+    "BACKGROUND_MENTIONED": ["#00d2ff20"],
+    "BG_BASE_TERTIARY": ["#01020495"],
+    "BG_BASE_PRIMARY": ["#04070d85"],
+    "BG_BASE_SECONDARY": ["#04070d85"],
+    "BG_BRAND": ["#00d2ff95"],
+    "BG_SURFACE_RAISED": ["#0c131f90"],
+    "BG_SURFACE_OVERLAY_TMP": ["#05080f95"],
+    "CARD_PRIMARY_BG": ["#0c131f90"],
+    "CARD_SECONDARY_BG": ["#0c131f90"],
+    "CHANNEL_ICON": ["#00d2ffac"],
+    "EMBED_BACKGROUND": ["#0c131f70"],
+    "EMBED_BACKGROUND_ALTERNATE": ["#0c131f70"],
+    "INTERACTIVE_ACTIVE": ["#00d2ff"],
+    "INTERACTIVE_MUTED": ["#4a5763"],
+    "INTERACTIVE_NORMAL": ["#8fa3b5"],
+    "PANEL_BG": ["#05080f95"],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#0088cc"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#0088cc"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#0088cc"],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#00d2ff"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#e2e8f0"],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": ["#00d2ff"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#00d2ff"],
+    "TEXT_NORMAL": ["#e2e8f0"],
+    "TEXT_PRIMARY": ["#e2e8f0"],
+    "TEXT_SECONDARY": ["#94a3b8"],
+    "THREAD_CHANNEL_SPINE": ["#00d2ff"],
+    "BACKGROUND_SECONDARY_ALT": ["#0088cc90"],
+    "PREMIUM_NITRO_PINK_TEXT": ["#00d2ff"],
+    "TEXT_MUTED": ["#4a5763"],
+    "TEXT_LINK": ["#00d2ff"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#00000080"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#00000080"],
+    "INPUT_BACKGROUND": ["#00000080"],
+    "TEXT_DANGER": ["#ff3355"],
+    "BUTTON_OUTLINE_DANGER_BORDER": ["#ff3355"],
+    "INFO_DANGER_BACKGROUND": ["#ff33551a"],
+    "INFO_DANGER_FOREGROUND": ["#ff3355"],
+    "STATUS_DANGER": ["#ff3355"],
+    "STATUS_DND": ["#ff3355"],
+    "BACKGROUND_MESSAGE_AUTOMOD": ["#ff33550d"],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": ["#ff33551a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#00d2ff14"]
+  },
+
+  "background": {
+    "url": "https://githubusercontent.com",
+    "alpha": 0.45,
+    "blur": 0
+  },
+
+  "rawColors": {
+    "BLUE_345": "#00d2ff",
+    "GREEN_430": "#00d2ff",
+    "RED_430": "#ff3355",
+    "RED_460": "#ff3355",
+    "GREEN_460": "#0088cc",
+    "BRAND_260": "#00d2ff",
+    "BRAND_360": "#00d2ff",
+    "RED_400": "#ff3355",
+    "BRAND_500": "#00d2ff",
+    "BRAND_560": "#0088cc",
+    "PLUM_13": "#00d2ff",
+    "PLUM_14": "#0c131f",
+    "PLUM_15": "#00d2ff",
+    "PLUM_16": "#0c131f",
+    "PLUM_17": "#05080f",
+    "PLUM_18": "#0c131f",
+    "PLUM_19": "#0088cc",
+    "PLUM_20": "#04070d",
+    "PLUM_22": "#0c131f",
+    "PLUM_24": "#000000",
+    "PRIMARY_500": "#0c131f90",
+    "PRIMARY_600": "#02040890",
+    "PRIMARY_660": "#04070d85",
+    "PRIMARY_700": "#05080f95",
+    "PRIMARY_800": "#000000a0"
+  },
+
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#00d2ff"
+  }
+}
+
