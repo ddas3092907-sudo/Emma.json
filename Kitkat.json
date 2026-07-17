@@ -1,0 +1,102 @@
+{
+  "name": "Limitless Void: Purple Awakening",
+  "description": "A refined Liquid Glass theme for Revenge inspired by Gojo Satoru. Uses accurate semantic mapping for pure Hollow Purple pings, text links, and thread reply line connections.",
+  "authors": [
+    {
+      "name": "AI Assistant"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#02040680"],
+    "ANDROID_RIPPLE": ["#8a2be223"],
+    "BACKGROUND_ACCENT": ["#8a2be2"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#ffffff0a"],
+    "BACKGROUND_PRIMARY": ["#04070d85"],
+    "BACKGROUND_SECONDARY": ["#080c1490"],
+    "BACKGROUND_MENTIONED": ["#8a2be220"],
+    "BG_BASE_TERTIARY": ["#01020495"],
+    "BG_BASE_PRIMARY": ["#04070d85"],
+    "BG_BASE_SECONDARY": ["#04070d85"],
+    "BG_BRAND": ["#8a2be295"],
+    "BG_SURFACE_RAISED": ["#0c131f90"],
+    "BG_SURFACE_OVERLAY_TMP": ["#05080f95"],
+    "CARD_PRIMARY_BG": ["#0c131f90"],
+    "CARD_SECONDARY_BG": ["#0c131f90"],
+    "CHANNEL_ICON": ["#8a2be2a0"],
+    "EMBED_BACKGROUND": ["#0c131f70"],
+    "EMBED_BACKGROUND_ALTERNATE": ["#0c131f70"],
+    "INTERACTIVE_ACTIVE": ["#8a2be2"],
+    "INTERACTIVE_MUTED": ["#4a5763"],
+    "INTERACTIVE_NORMAL": ["#8fa3b5"],
+    "PANEL_BG": ["#05080f95"],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#5a1ba3"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#5a1ba3"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#5a1ba3"],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#8a2be2"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#e2e8f0"],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": ["#8a2be2"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#8a2be2"],
+    "TEXT_NORMAL": ["#e2e8f0"],
+    "TEXT_PRIMARY": ["#e2e8f0"],
+    "TEXT_SECONDARY": ["#94a3b8"],
+    "THREAD_CHANNEL_SPINE": ["#8a2be2"],
+    "BACKGROUND_SECONDARY_ALT": ["#5a1ba390"],
+    "PREMIUM_NITRO_PINK_TEXT": ["#8a2be2"],
+    "TEXT_MUTED": ["#4a5763"],
+    "TEXT_LINK": ["#8a2be2"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#00000080"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#00000080"],
+    "INPUT_BACKGROUND": ["#00000080"],
+    "TEXT_DANGER": ["#ff3355"],
+    "BUTTON_OUTLINE_DANGER_BORDER": ["#ff3355"],
+    "INFO_DANGER_BACKGROUND": ["#ff33551a"],
+    "INFO_DANGER_FOREGROUND": ["#ff3355"],
+    "STATUS_DANGER": ["#ff3355"],
+    "STATUS_DND": ["#ff3355"],
+    "BACKGROUND_MESSAGE_AUTOMOD": ["#ff33550d"],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": ["#ff33551a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#8a2be214"]
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/ddas3092907-sudo/Emma.json/main/Jujutsu%20Kaisen%20Chapter%20249%20Gojo%20is%20back!-Picsart-AiImageEnhancer.jpeg",
+    "alpha": 0.45,
+    "blur": 0
+  },
+
+  "rawColors": {
+    "BLUE_345": "#8a2be2",
+    "GREEN_430": "#8a2be2",
+    "RED_430": "#ff3355",
+    "RED_460": "#ff3355",
+    "GREEN_460": "#5a1ba3",
+    "BRAND_260": "#8a2be2",
+    "BRAND_360": "#8a2be2",
+    "RED_400": "#ff3355",
+    "BRAND_500": "#8a2be2",
+    "BRAND_560": "#5a1ba3",
+    "PLUM_13": "#8a2be2",
+    "PLUM_14": "#0c131f",
+    "PLUM_15": "#8a2be2",
+    "PLUM_16": "#0c131f",
+    "PLUM_17": "#05080f",
+    "PLUM_18": "#0c131f",
+    "PLUM_19": "#5a1ba3",
+    "PLUM_20": "#04070d",
+    "PLUM_22": "#0c131f",
+    "PLUM_24": "#000000",
+    "PRIMARY_500": "#0c131f90",
+    "PRIMARY_600": "#02040890",
+    "PRIMARY_660": "#04070d85",
+    "PRIMARY_700": "#05080f95",
+    "PRIMARY_800": "#000000a0"
+  },
+
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#8a2be2"
+  }
+}
+
