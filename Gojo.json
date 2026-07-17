@@ -1,0 +1,107 @@
+{
+  "name": "Limitless Void: Shinjuku Showdown",
+  "description": "Liquid Glass aesthetic theme for Revenge based on Gojo Satoru's return. High-contrast monochromatic glass with piercing Six Eyes neon blue and purple accents.",
+  "authors": [
+    {
+      "name": "AI Assistant",
+      "id": "000000000000000000"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": ["#8a2be21a"],
+    "MENTION_BACKGROUND": ["#8a2be2"],
+    "TEXT_MENTION": ["#00d2ff"],
+    "TEXT_DEFAULT": ["#e2e8f0"],
+
+    "INPUT_BACKGROUND": ["#00000080"],
+
+    "CHANNEL_ICON": ["#50b7f5"],
+
+    "INTERACTIVE_NORMAL": ["#8fa3b5"],
+    "INTERACTIVE_HOVER": ["#00d2ff"],
+    "INTERACTIVE_ACTIVE": ["#50b7f5"],
+    "INTERACTIVE_MUTED": ["#4a5763"],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#00d2ff30"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#00d2ff20"],
+    "BUTTON_OUTLINE_BRAND_BORDER": ["#00d2ff80"],
+
+    "INPUT_BORDER": ["#ffffff15"],
+    "INPUT_BORDER_FOCUS": ["#00d2ff"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#ffffff0a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff14"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#00d2ff25"],
+
+    "SCROLLBAR_THIN_THUMB": ["#ffffff20"],
+    "SCROLLBAR_THIN_TRACK": ["#00000000"],
+    "SCROLLBAR_AUTO_TRACK": ["#00000000"],
+
+    "FOCUS_PRIMARY": ["#00d2ff"],
+    "FOCUS_SECONDARY": ["#8a2be2"],
+
+    "BACKGROUND_FLOATING": ["#080d14bd"],
+    "BACKGROUND_NESTED_FLOATING": ["#04070abd"]
+  },
+
+  "background": {
+    "url": "https://githubusercontent.com",
+    "alpha": 0.45,
+    "blur": 0
+  },
+
+  "rawColors": {
+    "BRAND_360": "#8a2be2",
+    "BRAND_500": "#8a2be2",
+
+    "PRIMARY_100": "#e2e8f0",
+    "PRIMARY_200": "#94a3b8",
+    "PRIMARY_230": "#080c1490",
+    "PRIMARY_300": "#05080f95",
+    "PRIMARY_400": "#0c131f90",
+    "PRIMARY_500": "#04070d85",
+    "PRIMARY_600": "#02040890",
+    "PRIMARY_700": "#01020495",
+    "PRIMARY_800": "#000000a0",
+    "PRIMARY_900": "#000000f0",
+
+    "GREEN_360": "#00d2ff",
+    "BLUE_345": "#50b7f5",
+    "YELLOW_300": "#8a2be2",
+    "ORANGE_345": "#ff3355",
+    "RED_400": "#ff3355",
+
+    "PLUM_1": "#00d2ff",
+    "PLUM_3": "#50b7f5",
+    "PLUM_11": "#50b7f5",
+    "PLUM_13": "#50b7f5",
+    "PLUM_15": "#0c131f70",
+    "PLUM_16": "#00d2ff",
+    "PLUM_17": "#080c1470",
+    "PLUM_18": "#080c1470",
+    "PLUM_19": "#0c131f70",
+    "PLUM_20": "#05080f70",
+    "PLUM_22": "#05080f70",
+    "PLUM_23": "#0c131f70",
+    "PLUM_24": "#0c131f70"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": ["#00d2ff"],
+      "StatusStreaming": ["#8a2be2"],
+      "StatusMobileOnline": ["#00d2ff"],
+      "StatusDND": ["#ff3355"],
+      "StatusOffline": ["#4a5763"],
+      "StatusOnline": ["#00d2ff"],
+      "custom_reply_lines": ["#8a2be2"],
+      "chat_reply_line_color": ["#8a2be2"],
+      "mention_line_color": ["#00d2ff"]
+    }
+  }
+}
+
